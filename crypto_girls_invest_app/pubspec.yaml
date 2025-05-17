@@ -1,0 +1,23 @@
+name: crypto_girls_invest_app
+description: A starter Flutter project for Crypto Girls Invest with Solana and Privy integration.
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  go_router: ^6.0.0
+  http: ^0.13.0
+  flutter_secure_storage: ^5.0.2
+  solana: ^0.0.1 # placeholder
+  privy_sdk: ^0.0.1 # placeholder
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

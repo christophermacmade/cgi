@@ -1,0 +1,14 @@
+[programs.devnet]
+staking_contract = "YourProgramIDHere"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[workspace]
+members = [
+    "programs/staking_contract"
+]
