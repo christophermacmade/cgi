@@ -6,8 +6,6 @@ A token‐gated learning & investment platform on Solana, built for women to sta
 - An **Anchor**–based Solana staking program for tiered access  
 - Starter code & stubs to jumpstart hackathon or MVP development  
 
-> **WIP:** Core scaffolding and staking logic are in place. Full feature integration, styling, and audit are pending.
-
 ---
 
 ## 📖 Overview
