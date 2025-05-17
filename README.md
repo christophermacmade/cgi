@@ -17,7 +17,7 @@ A token‐gated learning & investment platform on Solana, built for women to sta
 
 The platform leverages:
 - **Privy** for secure wallet management & auth  
-- **Solana** for low-cost, fast transactions  
+- **Solana** for infostructure  
 - **Flutter** for a cross-platform mobile experience  
 
 ---
