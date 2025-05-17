@@ -4,7 +4,7 @@ A token‐gated learning & investment platform on Solana, built for women to sta
 
 - A **Flutter** frontend with Privy wallet integration  
 - An **Anchor**–based Solana staking program for tiered access  
-- Starter code & stubs to jumpstart hackathon or MVP development  
+- MVP development WIP 
 
 ---
 
